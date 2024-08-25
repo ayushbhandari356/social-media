@@ -46,7 +46,7 @@ const Comments = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Perspiciatis minus facere, saepe odit libero reprehenderit
               voluptate eum vel reiciendis modi atque distinctio omnis sint
-              velit provident numquam maxime! Delectus, molestias.
+              velit provident numquam maxime! Delectus, molestias. ayuhs
             </p>
             <div className="flex items-center gap-8 text-xs text-gray-500 mt-2">
               <div className="flex items-center gap-2">
